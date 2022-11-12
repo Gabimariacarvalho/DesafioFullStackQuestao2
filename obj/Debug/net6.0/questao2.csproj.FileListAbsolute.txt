@@ -1,0 +1,15 @@
+C:\Users\123\questao2\bin\Debug\net6.0\questao2.exe
+C:\Users\123\questao2\bin\Debug\net6.0\questao2.deps.json
+C:\Users\123\questao2\bin\Debug\net6.0\questao2.runtimeconfig.json
+C:\Users\123\questao2\bin\Debug\net6.0\questao2.dll
+C:\Users\123\questao2\bin\Debug\net6.0\ref\questao2.dll
+C:\Users\123\questao2\bin\Debug\net6.0\questao2.pdb
+C:\Users\123\questao2\obj\Debug\net6.0\questao2.csproj.AssemblyReference.cache
+C:\Users\123\questao2\obj\Debug\net6.0\questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\questao2\obj\Debug\net6.0\questao2.AssemblyInfoInputs.cache
+C:\Users\123\questao2\obj\Debug\net6.0\questao2.AssemblyInfo.cs
+C:\Users\123\questao2\obj\Debug\net6.0\questao2.csproj.CoreCompileInputs.cache
+C:\Users\123\questao2\obj\Debug\net6.0\questao2.dll
+C:\Users\123\questao2\obj\Debug\net6.0\ref\questao2.dll
+C:\Users\123\questao2\obj\Debug\net6.0\questao2.pdb
+C:\Users\123\questao2\obj\Debug\net6.0\questao2.genruntimeconfig.cache
